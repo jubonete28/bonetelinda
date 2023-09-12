@@ -14,5 +14,23 @@ strong{
     font-size: larger;
 }
 body{
-    background-color: darkgreen;
+    background-color: rgb(192, 199, 192);
 }
+h3{
+    font-style: italic;
+    background-color: aliceblue;
+}
+p {
+    text-align: center;
+    font-size: medium;
+}
+lista {
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
+    
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
