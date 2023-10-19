@@ -33,4 +33,34 @@ lista {
 .imagemcentralizada {
  text-align: center;
 }
+.IMPERIO ALVIVERDE  {
+    font-style: initial;
 
+}
+.brilho {
+   color: rgb(16, 82, 0);
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+        color: rgb(7, 68, 1);
+        padding: 5%;
+        border-color: rgb(13, 255, 106);
+        border-width: 20px;
+        border-style: solid;
+        border-radius: 12px 50px 2px 120px;
+    }
+
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(33, 56, 3);
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: rgb(180, 238, 21);
+    border-width: 10px;
+    border-style: solid; 
+}
